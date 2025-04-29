@@ -37,8 +37,10 @@ _(Insert a dashboard screenshot here if available)_
 
 ## Repository Structure
 - `Uber_Trip_Analysis.pbix` : Main Power BI Dashboard file
-- `dashboard_preview.png` :
 
+- Overview Dasboard
 - ![dashboard_preview.png](OverviewSS.png)
+
+- Time Analysis Dasboard : 
 ---
 
