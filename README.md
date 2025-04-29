@@ -3,6 +3,8 @@
 ## Project Overview
 The Uber Trip Analysis Dashboard was built in Power BI to uncover insights into trip bookings, revenue generation, trip distances, and customer demand patterns. This dashboard empowers stakeholders to make data-driven decisions to optimize ride operations, pricing strategies, and customer satisfaction.
 
+- ![dashboard_preview.png](OverviewSS.png)
+
 ## Key Business Questions Answered
 - What are the total bookings, booking value, and trip distance over time?
 - How does ride demand vary across different hours and days of the week?
@@ -35,6 +37,8 @@ _(Insert a dashboard screenshot here if available)_
 
 ## Repository Structure
 - `Uber_Trip_Analysis.pbix` : Main Power BI Dashboard file
-- `dashboard_preview.png` : Screenshot of the Dashboard (optional)
+- `dashboard_preview.png` :
+
+- ![dashboard_preview.png](OverviewSS.png)
 ---
 
