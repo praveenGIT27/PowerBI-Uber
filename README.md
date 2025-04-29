@@ -41,6 +41,6 @@ _(Insert a dashboard screenshot here if available)_
 - Overview Dasboard
 - ![dashboard_preview.png](OverviewSS.png)
 
-- Time Analysis Dasboard : 
----
+- Time Analysis Dasboard :
+- ![dashboard_preview.png](TimeAnalysisSS.png)
 
