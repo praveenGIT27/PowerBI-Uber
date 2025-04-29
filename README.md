@@ -39,8 +39,11 @@ _(Insert a dashboard screenshot here if available)_
 - `Uber_Trip_Analysis.pbix` : Main Power BI Dashboard file
 
 - Overview Dasboard
-- ![dashboard_preview.png](OverviewSS.png)
+  ![dashboard_preview.png](OverviewSS.png)
 
 - Time Analysis Dasboard :
-- ![dashboard_preview.png](TimeAnalysisSS.png)
+  ![dashboard_preview.png](TimeAnalysisSS.png)
+
+  Details Dashboard :
+- ![dashboard_preview.png](DetailsSS.png)
 
