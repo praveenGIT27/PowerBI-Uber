@@ -45,5 +45,5 @@ _(Insert a dashboard screenshot here if available)_
   ![dashboard_preview.png](TimeAnalysisSS.png)
 
   Details Dashboard :
-- ![dashboard_preview.png](DetailsSS.png)
+- ![dashboard_preview.png](screenshots/DetailsSS.png)
 
