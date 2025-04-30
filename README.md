@@ -42,7 +42,7 @@ _(Insert a dashboard screenshot here if available)_
   ![dashboard_preview.png](OverviewSS.png)
 
 - Time Analysis Dasboard :
-  ![dashboard_preview.png](TimeAnalysisSS.png)
+  ![dashboard_preview.png](screenshots/TimeAnalysisSS.png)
 
   Details Dashboard :
 - ![dashboard_preview.png](screenshots/DetailsSS.png)
